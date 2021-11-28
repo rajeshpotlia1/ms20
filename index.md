@@ -1,4 +1,4 @@
-## Welcome to MS20 Help Deskline
+## Ohh!! Are you back? ..Welcome to MS20 Help Deskline
 
 <!---
 | <MARQUEE style="color :green" SCROLLAMOUNT="10" ONMOUSEOVER="this.setAttribute('SCROLLAMOUNT', 0); this.stop()" ONMOUSEOUT="this.setAttribute('SCROLLAMOUNT', 5); this.start()" BEHAVIOR="scroll" DIRECTION="left" >Welcome Back</MARQUEE> | 
@@ -18,20 +18,26 @@ Here you can find all your course related materials.
 <strong style="color :red; "></strong> <br>
 <strong style="color :red; "></strong>
 
+## Lab Exams (Will be offline)
+* Bio 211: 29th Nov 10.30am
+* Chm 211: 30th Nov 11am
+* Phy 211: 1st and 2nd Dec. To check your time slot <a href = "https://docs.google.com/spreadsheets/d/1bzbOL5qHsmDAGE7l7lpWxDQwoRvk5zTgCrSSOI3x8ms/edit#gid=0" > Click Here </a>
+
+
 ### Submissions
 
 |  Subject                                                                                        |  Submissions                   |   Deadline    |
 | ----------------------------------------------------------------------------------------------- | -------------                  | ------------- |
-| PHY 211                                                                                         |      EXP 1, 2 REPORT           | 18-11-2021    |
-| CHM 201                                                                                         |      Assignment - 3            | 14-11-2021    |
+| IDC 205                                                                                         |      Assignment 3              | 05-12-2021    |
+| IDC 202                                                                                         |      Assignment                | 05-12-2021    |
 
 
 ### Quizes
 
 |  Subject                |             Date                 |
 |-------------------------|----------------------------------|
-|    PHY 211              |             18-11-2021           |
-|    PHY 201              |             15-11-2021           |
+|    PHY 201              |             04-12-2021           |
+
 
 
 
