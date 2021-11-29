@@ -1,4 +1,4 @@
-## Ohh!! Are you back? ..Welcome to MS20 Help Deskline
+## Welcome to MS20 Help Deskline
 
 <!---
 | <MARQUEE style="color :green" SCROLLAMOUNT="10" ONMOUSEOVER="this.setAttribute('SCROLLAMOUNT', 0); this.stop()" ONMOUSEOUT="this.setAttribute('SCROLLAMOUNT', 5); this.start()" BEHAVIOR="scroll" DIRECTION="left" >Welcome Back</MARQUEE> | 
